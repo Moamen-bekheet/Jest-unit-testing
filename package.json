@@ -1,0 +1,23 @@
+{
+  "name": "jest-unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moamen-bekheet/Jest-unit-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moamen-bekheet/Jest-unit-testing/issues"
+  },
+  "homepage": "https://github.com/Moamen-bekheet/Jest-unit-testing#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
